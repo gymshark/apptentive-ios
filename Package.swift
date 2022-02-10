@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Apptentive",
-            path: "./Apptentive.5.3.4.xcframework"
+            path: "./Apptentive.xcframework"
         )
     ]
 )
